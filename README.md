@@ -124,7 +124,7 @@ class Rohit:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thelon1&theme=tokyo-night&hide_border=true&area=true&custom_title=Rohit's%20Contribution%20Graph" width="100%" />
 
-<!-- </div>
+ </div>
 
 ### 🐍 Contribution Snake
 
@@ -136,7 +136,7 @@ class Rohit:
   <img alt="github-snake" src="https://raw.githubusercontent.com/thelon1/thelon1/output/github-snake.svg" />
 </picture>
 
-</div> -->
+</div> 
 
 ---
 
