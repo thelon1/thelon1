@@ -12,7 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rohitwamane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitwamane)
 [![GitHub](https://img.shields.io/badge/GitHub-thelon1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thelon1)
 [![Location](https://img.shields.io/badge/Based%20in-Nanded%2C%20Maharashtra-orange?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-![Profile Views](https://komarev.com/ghpvc/?username=thelon1&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 </div>
 
